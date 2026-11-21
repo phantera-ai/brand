@@ -51,6 +51,7 @@ Please don't recolor or stretch the logo.
 - Demo video (40 s): https://www.youtube.com/watch?v=F6fZduE7Alg
 - LinkedIn: https://www.linkedin.com/company/phantera-tn/
 - Medium: https://medium.com/@phantera
+- YouTube: https://www.youtube.com/@phantera-tn
 - GitHub: https://github.com/phantera-ai
 - Comparisons: [vs lemlist](https://www.phantera-tn.com/en/alternative/lemlist) · [vs La Growth Machine](https://www.phantera-tn.com/en/alternative/la-growth-machine) · [vs Instantly](https://www.phantera-tn.com/en/alternative/instantly) · [vs Waalaxy](https://www.phantera-tn.com/en/alternative/waalaxy)
 
